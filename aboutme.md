@@ -9,3 +9,4 @@
     + Faculty : IT industry.
     + Euducation : advanced.
     + Favorite : Video game, Movie, Anime, Music.
+    
