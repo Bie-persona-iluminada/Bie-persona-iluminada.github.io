@@ -1,2 +1,2 @@
-  + I learn about React Native to creact Moblie appication
+  + ผมได้สืกสาเกี่ยวกับกานใช้ (React-Native) ในกานพัด
   
