@@ -4,7 +4,7 @@
     + Nick Name : Bie.
     + Gender : Male.
     + Nationality : LAOS.
-    + Born : day/21/month/12.
+    + Born : day: 21 ,month : 12.
     + Studied at school : POLYTECHNIC COLLEGE LAOS.
     + Faculty : IT industry.
     + Euducation : advanced.
