@@ -1,6 +1,6 @@
 # !!!สวัสดี!!!
 
-![image](Char.jpg)
+![image](C:\Git\Bie-persona-iluminada.github.io\img)
 
 + [เกี่ยวกับตัวผม](aboutme)
 + [ผมได้เรียนรู้เกี่ยวกับอะไร?](learn)
