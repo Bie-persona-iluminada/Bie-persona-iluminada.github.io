@@ -5,5 +5,5 @@
   
   + รูบภาพของ แอพ (Figma)
   
-  ![image](/img/Figma.webp "about me")
+  ![image](/img/Figma.webp "about me") ![image](/img/Figma.webp "about me") 
   
