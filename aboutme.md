@@ -1,5 +1,5 @@
 # about me
-    
+![image](C:\Git\Bie-persona-iluminada.github.io\img)
 + Name : Soukthasen.
 + Nick Name : Bie.
 + Gender : Male.
