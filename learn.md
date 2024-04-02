@@ -6,4 +6,3 @@
   + รูบภาพของ แอพ (Figma)
   
   ![image](/img/Figma.webp "about me")  
-  
