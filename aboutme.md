@@ -1,6 +1,7 @@
 # about me
-
-    + Name : Soukthasen.
+    
+![AnVIL Image](/img/Char.jpg  "Bie")
++ Name : Soukthasen.
     + Nick Name : Bie.
     + Gender : Male.
     + Nationality : LAOS.
