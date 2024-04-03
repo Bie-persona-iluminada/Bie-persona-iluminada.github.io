@@ -16,7 +16,7 @@
 
   + รูบภาพของโปรเจ็กที่ได้ทำใน "Figma" โดยที่มีพี่สายเพชรช่วยให้คำแนะนำ.
 
-  ![image](/img/myfigmaproject.png "learn")
+  ![image](/img/myfigmaproject.PNG "learn")
 
   # ในช่วงขั้นกรางเดือนของกราฝืกงาน 
 
