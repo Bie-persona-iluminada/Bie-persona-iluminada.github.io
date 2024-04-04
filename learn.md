@@ -70,6 +70,8 @@
   + รูบภาพของ (GitHub) และ (GitHub Desktop)
 
   ![image](/img/Github.png "learn") 
+  
+  ![image](/img/Github-Desktop.png "learn") 
 
   # คนที่เป็นคนสอนความรู้ในส่วนนี้ให้กับผมก็คือ พี่:ขวด.
 
