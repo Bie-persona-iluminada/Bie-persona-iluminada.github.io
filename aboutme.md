@@ -1,5 +1,5 @@
 # about me
-![image](/img/Me.png "about me")
+![image](/img/Bie.jpg "about me")
 + Name : Soukthasen.
 + Nick Name : Bie.
 + Gender : Male.
