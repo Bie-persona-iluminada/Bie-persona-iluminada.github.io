@@ -22,7 +22,7 @@
 
   ![image](/img/Do it myself.PNG "learn")
 
-  + รูบภาพของ พี่:สายเพชร.
+  + รูบภาพของ (พี่:สายเพชร)
 
   ![image](/img/Mrone.png "learn")
 
@@ -36,7 +36,7 @@
 
   ![image](/img/VSCode.png "learn")
 
-  + รูบภาพของ พี่:แฮ้ม.
+  + รูบภาพของ (พี่:แฮ้ม)
 
   ![image](/img/Ham.png "learn")
 
@@ -53,7 +53,7 @@
   
   ![image](/img/React-Native.png "learn")
 
-  + รูบภาพของ พี่:นิก.
+  + รูบภาพของ (พี่:นิก)
 
   ![image](/img/Mr2.png "learn")
 
@@ -88,5 +88,11 @@
   # ในไลยะเวลา (1อาทิตย์สุดท้ายของกราฝืกงา) ความรู้สุุดท้ายที่ได้เรียนรู้จาก พี่:ขวด (Regular Expression)
 
   + (Regular Exprersion) คือ การกำหนดรูปแบบของตัวอักษร เพื่อใช้ในการค้นหาค่าในรูปแบบของ String โดย Regular Expression มีพื้นฐานมาจากทฤษฎีทางคณิตศาสตร์ที่ใช้ในการเปรียบเทียบข้อความที่ต้องการค้นหากับรูปแบบที่กำหนดว่ามีความสอดคล้องกันหรือไม่.
+
+  + รูบภาพของ (พี่:ขวด)
+
+  ![image](/img/Mr4.png "learn")
+
+  [Maykin Warasart](https://www.facebook.com/maeklong)
 
   
