@@ -44,6 +44,9 @@
 
   ![image](/img/Ham.png "learn")
 
+  
+  [(Facebook-Ham Sps)](https://www.facebook.com/profile.php?id=100009093485533)
+
  
   # ในไลยะเวลา (3อาทิตย์สุดท้ายของกราฝืกงาน) 
   
