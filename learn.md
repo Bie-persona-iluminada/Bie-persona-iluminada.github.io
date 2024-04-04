@@ -24,7 +24,7 @@
 
   + รูบภาพของ พี่:สายเพชร.
 
-  ![image](/img/Mrone.PNG "learn")
+  ![image](/img/Mrone.png "learn")
 
   # ในช่วงขั้นกรางเดือนของกราฝืกงาน 
 
