@@ -71,7 +71,7 @@
 
   ![image](/img/Github.png "learn") 
   
-  + + รูบภาพของ (GitHub Desktop)
+  + รูบภาพของ (GitHub Desktop)
   
   ![image](/img/Github-Desktop.png "learn") 
 
