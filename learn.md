@@ -23,8 +23,24 @@
   
   + รูบภาพของโปรเจ็กที่ได้ทำใน "Figma" ได้ลองออกแบบ และ ทำด้วยตัวเอง.
 
+
   ![image](/img/Do it myself.PNG "learn")
 
+  
+  + ผมได้ใช้ โปรแกรม (Xampp) และ (Wordpress) ในกราสร้างเว็บไซต์โดยที่มี พี่:สายเพชร เป็นคนสอน.
+
+
+  + รูบภาพของโปรแกรม (Xampp)
+
+
+  ![image](/img/xampp-icon.png "learn")
+
+
+  + รูบภาพของโปรแกรม (Wordpress)
+
+
+  ![image](/img/wordpress-icon.png "learn")
+  
   
   + รูบภาพของ (พี่:สายเพชร)
 
